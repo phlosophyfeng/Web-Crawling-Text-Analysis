@@ -1,0 +1,18 @@
+{
+    "id": 800,
+    "summary": "文章讲述了Jennifer Lopez（JLo）和Ben Affleck（大本）在中年时期重新走到一起的故事，并分析了JLo在婚恋市场上的完美交易条件。文章强调了JLo的恋爱观、精力、财富和个人魅力，以及她与大本之间基于相互欣赏的关系。",
+    "keywords": [
+        "Jennifer Lopez",
+        "Ben Affleck",
+        "中年婚恋",
+        "恋爱脑",
+        "钞能力"
+    ],
+    "keyword_relations": {
+        "Jennifer Lopez,Ben Affleck": "Jennifer Lopez和Ben Affleck是文章中的主要人物，他们的关系是文章的核心",
+        "中年婚恋,恋爱脑": "中年婚恋市场是JLo和大本复合的背景，恋爱脑是JLo对爱情的态度",
+        "恋爱脑,钞能力": "恋爱脑是JLo对爱情的态度，钞能力是她个人财富的体现，两者共同构成了她在婚恋市场上的优势",
+        "钞能力,个人魅力": "钞能力是JLo的财富，个人魅力是她吸引伴侣的特质"
+    },
+    "sentiment": "正面"
+}

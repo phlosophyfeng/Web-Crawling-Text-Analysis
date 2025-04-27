@@ -1,0 +1,19 @@
+{
+    "id": 1003,
+    "summary": "英国卫生部长Matt Hancock因违反社交距离规定与女助手Gina出轨被曝光后，面临巨大压力辞职。尽管首相鲍里斯·约翰逊支持他，Hancock仍因私人生活干扰疫情关注而辞职。鲍里斯在回复辞职信中称赞了Hancock的工作。Hancock的出轨导致他婚姻破裂，计划与Gina同居。新任卫生部长Sajid Javid接任，尽管经验丰富，但缺乏卫生领域经验。出轨视频由卫生部工作人员泄露，Hancock和Gina的关系始于5月，两人在大学时期就相识。",
+    "keywords": [
+        "Matt Hancock",
+        "出轨",
+        "辞职",
+        "Gina",
+        "卫生部长"
+    ],
+    "keyword_relations": {
+        "Matt Hancock,出轨": "Matt Hancock因出轨事件而辞职",
+        "出轨,辞职": "出轨事件导致Matt Hancock辞职",
+        "Matt Hancock,卫生部长": "Matt Hancock曾担任英国卫生部长",
+        "Gina,卫生部长": "Gina是与卫生部长Matt Hancock出轨的女性",
+        "辞职,Gina": "Matt Hancock辞职后计划与Gina同居"
+    },
+    "sentiment": "负面"
+}
